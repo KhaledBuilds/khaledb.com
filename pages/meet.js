@@ -3,7 +3,7 @@ import {useEffect} from "react";
 export default function meet () {
 
     useEffect(() => {
-        window.location.assign('https://meet.google.com/ocg-bsyh-vbk')
+        window.location.assign('http://meet.google.com/zqu-mokh-crp')
     })
 
     return (<>
