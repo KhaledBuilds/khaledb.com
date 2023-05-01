@@ -23,7 +23,7 @@ export default function Home() {
       <section>
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 text-center">
-            About <span className="text-primary">BG</span>
+            About <span className="text-primary">KB</span>
           </h1>
         </div>
         <div className="items-center space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-2 ">
@@ -39,7 +39,7 @@ export default function Home() {
 
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Khaled Bahabri (@Khaledbuilds) is an Mechatronics Engineer, Blockchain Enthusiast & Entrepreneur. He has been blogging, building & shipping tech solutions around the globe,
+              Khaled Bahabri (@Khaledbuilds) is a Mechatronics Engineer, Blockchain Enthusiast & Entrepreneur. He has been blogging, building & shipping tech solutions around the globe,
               started from the age of sixteen.
             </p>
             <p>
