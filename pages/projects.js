@@ -22,16 +22,8 @@ export default function Projects() {
             My open-source projects are available at{' '}
             <b>
               <u>
-                <a href="http://github.com/goforbg" target="_blank" rel="noreferrer">
-                  @goforbg
-                </a>
-              </u>{' '}
-            </b>
-            &{' '}
-            <b>
-              <u>
-                <a href="http://github.com/codewithbg" target="_blank" rel="noreferrer">
-                  @codewithbg
+                <a href="http://github.com/khaledbuilds" target="_blank" rel="noreferrer">
+                  @khaledbuilds
                 </a>
               </u>{' '}
             </b>
