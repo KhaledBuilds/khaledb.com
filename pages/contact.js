@@ -43,11 +43,11 @@ export default function Contact() {
         <div className="container px-5 mx-auto">
           <div className="flex flex-col text-center w-full">
             <h1 className="pt-6 text-3xl lg:text-5xl font-extrabold text-gray-900 dark:text-gray-100  text-center">
-              Contact Bharadwaj Giridhar
+              Contact Khaled Bahabri
             </h1>
           </div>
           <div className="text-gray-500 dark:text-gray-400 mt-2 text-center">
-            I talk a lot about Startups, Tech, Finance & Philosophy. Say Hi!{' '}
+            I talk a lot about Blockchain, Tech, Web3, Engineering & AI. Say Hi!{' '}
             <span role="img" aria-label="wave">
               👋
             </span>
@@ -62,15 +62,15 @@ export default function Contact() {
                   <div className="text-gray-500 dark:text-gray-400 mt-4">
                     Hate forms?{' '}
                     <u>
-                      <a href="https://calendly.com/goforbg" target="_blank" rel="noreferrer">
+                      <a href="https://calendly.com/khaledbuilds" target="_blank" rel="noreferrer">
                         Schedule a call
                       </a>
                     </u>{' '}
                     or mail me at{' '}
                     <u>
                       {' '}
-                      <a href="mailto:bg@goforbg.com" target="_blank" rel="noreferrer">
-                        bg[at]goforbg.com
+                      <a href="mailto:me@khaledb.com" target="_blank" rel="noreferrer">
+                        me[at]khaledb.com
                       </a>
                     </u>
                   </div>
