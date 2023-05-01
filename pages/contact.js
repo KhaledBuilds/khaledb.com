@@ -47,7 +47,7 @@ export default function Contact() {
             </h1>
           </div>
           <div className="text-gray-500 dark:text-gray-400 mt-2 text-center">
-            I talk a lot about Blockchain, Tech, Web3, Engineering & AI. Say Hi!{' '}
+            I talk a lot about Blockchain, Web3, DeFi, Crypto, Tech, Engineering, and Artificial intelligence (AI). Say Hi!{' '}
             <span role="img" aria-label="wave">
               👋
             </span>
