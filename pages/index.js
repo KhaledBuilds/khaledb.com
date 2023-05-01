@@ -33,24 +33,20 @@ export default function Home() {
               {siteMetadata.author}
             </h3>
             <div className="text-gray-500 dark:text-gray-400">Entrepreneur. Dreamer.</div>
-            <div className="text-gray-500 dark:text-gray-400">Android at Workllama.</div>
+            <div className="text-gray-500 dark:text-gray-400">Mechatronics and Blockchain.</div>
             <SocialIcons />
           </div>
 
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Bharadwaj Giridhar (@goforbg) is an Entrepreneur, Startup Enthusiast & Software
-              Engineer. He has been blogging, building & shipping tech solutions around the globe,
-              started from the age of twelve.
+              Khaled Bahabri (@Khaledbuilds) is an Mechatronics Engineer, Blockchain Enthusiast & Entrepreneur. He has been blogging, building & shipping tech solutions around the globe,
+              started from the age of sixteen.
             </p>
             <p>
-              He's currently building DotPush & Finmux, previously ventured with Foodmux, Androar,
-              Twecco.
+              He's currently creating Smart Contracts using Solidity, building dApps, and getting deeper in Web3 development.
             </p>
             <p>
-              He's currently a full-time Android Engineer at Workllama and has shipped 8+ Android
-              Apps to 100K+ users. He has over two years of experience in architecting end-to-end
-              Android Applications.
+              He's currently a full-time Mechatronics Engineer at IKCU. He has over two years of experience in Blockchain and Web3 apps.
             </p>
           </div>
         </div>
