@@ -32,21 +32,21 @@ export default function Home() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Entrepreneur. Dreamer.</div>
-            <div className="text-gray-500 dark:text-gray-400">Mechatronics and Blockchain.</div>
+            <div className="text-gray-500 dark:text-gray-400">I engineer the entrepreneurship (Yes, exactly).</div>
+            <div className="text-gray-500 dark:text-gray-400">Mechatronics Engineer and Blockchain dev.</div>
             <SocialIcons />
           </div>
 
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Khaled Bahabri (@Khaledbuilds) is a Mechatronics Engineer, Blockchain Enthusiast & Entrepreneur. He has been blogging, building & shipping tech solutions around the globe,
-              started from the age of sixteen.
+              I'm Khaled Bahabri (@Khaledbuilds) a Mechatronics Engineer, and a Blockchain Enthusiast. I have been blogging, building & shipping tech solutions around the globe,
+              starting from the age of sixteen.
             </p>
             <p>
-              He's currently creating Smart Contracts using Solidity, building dApps, and getting deeper in Web3 development.
+              I'm currently creating Smart Contracts using Solidity, building dApps, and getting deeper into Web3 development.
             </p>
             <p>
-              He's currently a full-time Mechatronics Engineer at IKCU. He has over two years of experience in Blockchain and Web3 apps.
+              I'm a senior Mechatronics engineering student at IKCU.
             </p>
           </div>
         </div>
