@@ -39,7 +39,7 @@ export default function Home() {
 
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              I'm Khaled Bahabri (@Khaledbuilds) a Mechatronics Engineer, and a Blockchain Enthusiast. I have been blogging, building & shipping tech solutions around the globe,
+              I'm Khaled Bahabri (@Khaledbuilds) a Mechatronics Engineer, ML/AI and a Blockchain Enthusiast. I have been blogging, building & shipping tech solutions around the globe,
               starting from the age of sixteen.
             </p>
             <p>
