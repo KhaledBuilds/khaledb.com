@@ -19,7 +19,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            My open-source projects are available at{' '}
+            My open-source projects are going to be available here and at{' '}
             <b>
               <u>
                 <a href="http://github.com/khaledbuilds" target="_blank" rel="noreferrer">
