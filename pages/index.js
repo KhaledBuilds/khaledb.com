@@ -43,7 +43,7 @@ export default function Home() {
               starting from the age of sixteen.
             </p>
             <p>
-              I'm a senior Mechatronics engineering student at IKCU. I'm the manager of Falcons UAV https://linktr.ee/Falcons.af1
+              I'm a senior Mechatronics engineering student at IKCU. I'm the manager of Falcons UAV https://linktr.ee/Falcons.af1.
             </p>
           </div>
         </div>
